@@ -1,0 +1,12 @@
+# Python validation output
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local credentials and editor/OS files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
